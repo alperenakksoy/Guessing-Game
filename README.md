@@ -1,4 +1,4 @@
-# Guessing-Game
+# Guessing-Game JAVA
 A game which has a menu to choose Number guessing and Letter guessing game and have difficulty levels.
 
 Game starts with a simple menu to choose which game you want to play (Number guessing or Letter guessing). You can check your high score from first menu too. 
